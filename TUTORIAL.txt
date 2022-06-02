@@ -1,0 +1,9 @@
+Login Admin
+
+urlnya tambahin /admin
+username : admin
+password : 1234
+
+PEMBARUANNYA
+* ada fitur upload nilai
+* pilihan login siswa mau pakai nis saja atau dengan password

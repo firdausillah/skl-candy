@@ -1,0 +1,18 @@
+{
+    "name": "candy/belajar",
+    "description": "candy ppdb",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pajar sidik",
+            "email": "pajarsidikn@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5",
+        "longman/telegram-bot": "^0.61.1",
+        "picqer/php-barcode-generator": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.17"
+    }
+}
